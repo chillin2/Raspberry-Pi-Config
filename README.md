@@ -1,7 +1,5 @@
 # Initial page
----
-description: This is raspberry pi config description haha hoho
----
+
 ## RetroPie Kodi Youtube API key Config Path
 
 ```

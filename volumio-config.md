@@ -40,3 +40,15 @@ Install touch display Plug-in
 screen
 ```
 
+4.
+
+```bash
+sudo systemctl stop volumio-kiosk.service
+
+sudo sed -i "s+/dev/fb0+/dev/fb1+" /usr/share/X11/xorg.conf.d/99-fbturbo.conf
+
+cat /usr/share/X11/xorg.conf.d/99-fbturbo.conf
+
+sudo systemctl start volumio-kiosk.service
+```
+

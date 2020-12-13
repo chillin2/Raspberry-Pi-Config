@@ -32,5 +32,11 @@ disable_splash=1
 hdmi_force_hotplug=0
 ```
 
+3.
 
+```bash
+Install touch display Plug-in
+
+screen
+```
 

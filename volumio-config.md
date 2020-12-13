@@ -52,3 +52,16 @@ cat /usr/share/X11/xorg.conf.d/99-fbturbo.conf
 sudo systemctl start volumio-kiosk.service
 ```
 
+5.
+
+```bash
+sudo nano /usr/share/X11/xorg.conf.d/99-callibration.conf
+
+​Section "InputClass"
+Identifier "calibration"
+MatchProduct "ADS7846 Touchscreen"
+Option "TransformationMatrix" "0 -1 1 1 0 0 0 0 1"
+Option "SwapAxes" "0"
+EndSection
+```
+

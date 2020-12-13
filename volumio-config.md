@@ -65,3 +65,9 @@ Option "SwapAxes" "0"
 EndSection
 ```
 
+```bash
+90° = Option "TransformationMatrix" "0 -1 1 1 0 0 0 0 1"
+180° = Option "TransformationMatrix" "-1 0 1 0 -1 1 0 0 1"
+270° = Option "TransformationMatrix" "0 1 0 -1 0 1 0 0 1"
+```
+

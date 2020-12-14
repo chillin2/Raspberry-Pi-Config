@@ -37,7 +37,7 @@ hdmi_force_hotplug=0
 ```bash
 Install touch display Plug-in
 
-screen
+set screen saver
 ```
 
 4.

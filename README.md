@@ -1,8 +1,7 @@
 # Initial page
 
-Raspberry Pi
+## RetroPie Kodi Youtube API key Config Path
 
-```text
-  
 ```
-
+    $ sudo nano /opt/retropie/configs/ports/kodi/userdata/addon_data/plugin.video.youtube/settings.xml
+```

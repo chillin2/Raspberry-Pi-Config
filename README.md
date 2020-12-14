@@ -1,6 +1,6 @@
 # Initial page
 
-## Raspberry Pi
+## Raspberry Pi Config
 
 ```
     

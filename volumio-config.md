@@ -73,3 +73,7 @@ EndSection
 
 ## Aliexpress DAC Config
 
+1.  
+[1](volumio-config-pic/volumio-config-000.png)
+2.  
+[1](volumio-config-pic/volumio-config-001.png)

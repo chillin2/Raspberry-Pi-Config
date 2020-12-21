@@ -72,7 +72,8 @@ EndSection
 ```
 
 ## Aliexpress DAC Config
-
+This product  
 ![This product](volumio-config-pic/volumio-config-000.png)  
----
+  
+Select "Allo Boss"  
 ![Select "Allo Boss"](volumio-config-pic/volumio-config-001.png)  

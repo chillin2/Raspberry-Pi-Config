@@ -36,7 +36,7 @@ hdmi_force_hotplug=0
 
 Install touch display Plug-in
 
-set screen saver
+set screen saver  
 ![set screen saver](volumio-config-pic/volumio-config-002.jpg)  
 
 

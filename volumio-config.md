@@ -4,7 +4,7 @@
 
 1.
 
-```
+```text
 git clone https://github.com/swkim01/waveshare-dtoverlays
 
 sudo cp waveshare-dtoverlays/waveshare35a.dtbo /boot/overlays/waveshare35a.dtbo
@@ -37,8 +37,7 @@ hdmi_force_hotplug=0
 Install touch display Plug-in
 
 set screen saver  
-![set screen saver](volumio-config-pic/volumio-config-002.jpg)  
-
+![set screen saver](.gitbook/assets/volumio-config-002.jpg)
 
 4.
 
@@ -70,11 +69,12 @@ EndSection
 180° = Option "TransformationMatrix" "-1 0 1 0 -1 1 0 0 1"
 270° = Option "TransformationMatrix" "0 1 0 -1 0 1 0 0 1"
 ```
----
 
 ## Aliexpress DAC Config
+
 This product  
-![This product](volumio-config-pic/volumio-config-000.png)  
-  
+![This product](.gitbook/assets/volumio-config-000.png)
+
 Select "Allo Boss"  
-![Select "Allo Boss"](volumio-config-pic/volumio-config-001.png)  
+![Select &quot;Allo Boss&quot;](.gitbook/assets/volumio-config-001.png)
+
